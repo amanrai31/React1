@@ -19,6 +19,6 @@ For complex FE. There was no sync between state of JS and DOM if UI i.e. there w
 4. Poor SEO(Search engine optamization)
 5. Other Frameworks
     1. NextJS
-    2. Remix 
+    2. Remix xx
 
 
