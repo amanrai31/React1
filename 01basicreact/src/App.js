@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const DOB =31;                                     // Introducing variable/evaluated expression (JSX)
   return (
     <div className="App">
       <header className="App-header">
@@ -18,7 +19,7 @@ function App() {
           Learn React
         </a>
         <a href='https://www.linkedin.com/in/aman-rai-8a2289202/' target='blank' > 
-        <h1 style={{color:"GrayText",  textDecoration: 'underline' }}>Aman</h1>
+        <h1 style={{color:"GrayText",  textDecoration: 'underline' }}>Aman {DOB}</h1>
         </a>
       </header>
     </div>

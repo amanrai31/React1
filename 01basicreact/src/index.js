@@ -8,8 +8,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 // This root is taken from index.html as id="root" and stored in root, now we render App in this root
 
 root.render(                         
-  
-    <App />
-  
+    <App />         // Babel inject createReact methods that have predefined parameters- Lecture 4
 );
+
 
