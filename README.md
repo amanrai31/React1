@@ -17,6 +17,7 @@ For complex FE. There was no sync between state of JS and DOM of UI i.e. there w
 2. State management (Redux, Redux tootlkit)
 3. BAAS(Backend as a service-  appwrite, firebase)
 4. Poor SEO(Search engine optamization)
+
 5. Other Frameworks
     1. NextJS
     2. Remix
@@ -32,3 +33,6 @@ Note :- JSX is extension of JS that describe UI in HTML like syntax.(Any f/n con
 Note :- If you are making a component make the extension jsx OR tsx - Good practice
 
 #### Note :- This 01vitereact is in TS. 
+
+
+Note :- Custom own react lib and JSX- Lecture 4
