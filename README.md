@@ -4,7 +4,7 @@ Basics of react => 1.React-Dom(Web app) 2.React-Native(Mobile app)
 ### Framework(strict) vs library(cool dude)
 
 ### Why react-
-For complex FE. There was no sync between state of JS and DOM if UI i.e. there ws no consistancy in UI.
+For complex FE. There was no sync between state of JS and DOM of UI i.e. there ws no consistancy in UI.
 
 ### Topic to learn-
 1. Core of react (State or UI manipulation, JSX)
